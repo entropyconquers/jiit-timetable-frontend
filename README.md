@@ -38,3 +38,32 @@ The frontend is built using Jetpack Compose.
 ## About
 This app is built using Jetpack Compose. It is a single activity app with multiple composable screens. It uses the the [Retrofit](https://square.github.io/retrofit/) library for making network requests.
 
+## Jetpack Compose Concepts Used
+
+- [x] Column
+- [x] Row
+- [x] Box
+- [x] Text
+- [x] mutableStateOf
+- [x] remember
+- [x] rememberCoroutineScope
+- [x] navigation
+- [x] compose navigation
+- [x] State Hoisting
+- [x] LazyColumn
+- [x] Data Serialization
+- [x] Retrofit
+- [x] Coroutines
+- [x] Data class
+- [x] List
+- [x] Interfaces
+- [x] Composable functions
+- [x] @Composable annotation
+- [x] @Preview annotation
+- [x] @Composable functions with parameters
+- [x] @Composable functions with receiver, parameters and return type
+
+
+## Libraries Used
+- [Retrofit](https://square.github.io/retrofit/)
+- [Gson](https://github.com/google/gson)
